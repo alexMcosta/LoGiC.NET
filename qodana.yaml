@@ -36,7 +36,7 @@ exclude:
 
 properties:
   # Disable JetBrains/Qodana anonymous usage statistics.
-  idea.headless.enable.statistics: "false"
+  #idea.headless.enable.statistics: "false"
 
 # Intentionally no "bootstrap" section:
 # restore/build/SDK installation must happen before the restricted Qodana phase.
