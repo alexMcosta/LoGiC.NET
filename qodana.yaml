@@ -4,7 +4,7 @@ version: "1.0"
 
 # Pin this to the Qodana image actually certified by your CI environment.
 # This report targets the current Qodana 2026.2 configuration semantics.
-linter: jetbrains/qodana-dotnet:2026.2
+#linter: qodana-dotnet
 
 profile:
   name: qodana.recommended
